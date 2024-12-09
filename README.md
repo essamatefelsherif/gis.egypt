@@ -2,8 +2,8 @@
 
 A web map developed using [Leaflet.JS](https://leafletjs.com/index.html "Leaflet.JS"), an open-source JavaScript library for interactive maps. The web map provides detailed information about Egypt's administration boundaries and population.
 
-<div><a href="https://essamatefelsherif.github.io/gis.egypt/" target="_blank" title="Egypt web map"><img src="docs/img/egypt-web-map-screen-1.png"></a></div>
-<div><a href="https://essamatefelsherif.github.io/gis.egypt/" target="_blank" title="Egypt web map"><img src="docs/img/egypt-web-map-screen-2.png"></a></div>
+<div><a href="https://essamatefelsherif.github.io/gis.egypt/" target="_blank" title="Egypt web map"><img src="docs/img/egypt-web-map-screen-1.png" style="border:4px solid maroon;border-radius:20px"></a></div>
+<div><a href="https://essamatefelsherif.github.io/gis.egypt/" target="_blank" title="Egypt web map"><img src="docs/img/egypt-web-map-screen-2.png" style="border:4px solid maroon;border-radius:20px"></a></div>
 
 
 ## References
